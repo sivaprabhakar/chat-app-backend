@@ -3,8 +3,8 @@ import register from '../controller/register.js'
 import checkEmail from '../controller/checkEmail.js'
 import checkPassword from '../controller/passwordCheck.js'
 import userDetails from '../Controller/userDetails.js'
-import logout from '../Controller/logout.js'
-import updateUserDetails from '../Controller/updateUserDetails.js'
+import logout from '../controller/logout.js'
+import updateUserDetails from '../controller/updateUserDetails.js'
 import searchUser from '../controller/searchUser.js'
 
 
