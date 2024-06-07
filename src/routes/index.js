@@ -1,6 +1,6 @@
 import express from 'express'
 import register from '../controller/register.js'
-import checkEmail from '../Controller/checkEmail.js'
+import checkEmail from '../controller/checkEmail.js'
 import checkPassword from '../controller/passwordCheck.js'
 import userDetails from '../Controller/userDetails.js'
 import logout from '../Controller/logout.js'
